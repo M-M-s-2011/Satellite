@@ -976,8 +976,14 @@ ___
 
 </details>
 
+</details>
 
-#### Day 4: React Component Lifecycle
+___
+
+### **Week 4: React, Juke, Redux, React Router**
+
+
+#### Day 1: React Component Lifecycle
 
 - Pre-Work:
   - [React: State and Lifecycle][react-state-and-lifecycle]
@@ -1027,7 +1033,7 @@ ___
 </details>
 
 
-#### Day 5: Juke
+#### Day 2: Juke
 
 - Pre-Work: None!
 
@@ -1062,15 +1068,9 @@ ___
 
 </details>
 
-</details>
-
-___
-
-### **Week 4: Redux, React Router, Forms**
-
 <details><summary>Click to view</summary>
 
-#### Day 1: Redux
+#### Day 3: Redux
 
 - Pre-Work:
   - [Redux: Core Concepts][redux-core-concepts]
@@ -1122,7 +1122,7 @@ ___
   - Dispatch state-changing actions to the store
 
 
-#### Day 2: React-Redux, Thunks, `combineReducers`
+#### Day 4: React-Redux, Thunks, `combineReducers`
 
 - Pre-Work:
   - [React-redux "connect" explained][connect-explained]
@@ -1178,7 +1178,7 @@ ___
   - Use `combineReducers` to split your reducer function into separate functions, each managing independent slices of your store's state
 
 
-#### Day 3: React Router, Readium
+#### Day 5: React Router, Readium
 
 - Pre-Work:
   - [A Simple React Router v4 Tutorial][react-router-tutorial]
@@ -1236,8 +1236,14 @@ ___
 
 </details>
 
+</details>
 
-#### Day 4: React Forms
+___
+
+### **Week 5: React forms, Sockets, Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
+
+
+#### Day 1: React Forms
 
 - Pre-Work:
   - [React: Forms][react-forms-docs]
@@ -1294,7 +1300,7 @@ ___
 </details>
 
 
-#### Day 5: Sockets
+#### Day 2: Sockets
 
 - Pre-Work:
   - [Pusher: What are WebSockets?][pusher-sockets]
@@ -1336,11 +1342,8 @@ ___
 
 </details>
 
-</details>
 
-___
-
-### **Week 5: Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
+#### Day 3: Course review, JPFP 
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
@@ -1368,7 +1371,7 @@ ___
 
 <details><summary>Click to view</summary>
 
-#### Day 1: Data Structures (Stacks, Queues & Linked Lists)
+#### Day 2: Data Structures (Stacks, Queues & Linked Lists)
 
 - Pre-Work:
   - [Stacks and queues: the basics][stacks-queues-basics]
@@ -1432,7 +1435,7 @@ ___
 </details>
 
 
-#### Day 2: Algorithms & Analysis, Sorting
+#### Day 3: Algorithms & Analysis, Sorting
 
 - Pre-Work:
   - [Big-O notation in 5 minutes - The basics][big-o-basics]
@@ -1501,42 +1504,6 @@ ___
 [big-o-big-theta]: https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
 
 </details>
-
-#### Day 3: Hash Tables
-
-- Pre-Work: None!
-
-| Topic | Lecture | Slides | Demo | Solution | Review |
-| ----- | ------- | ------ | ---- | -------- | ------ |
-| Hash Tables | - | [🖼️][hash-table-slides] | - | - | - |
-| Algorithmic Problem Solving | - | [🖼️][algorithmic-prob-slides] | - | - | - |
-| Search &&! Destroy | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
-
-[//]: # ( Paste in table above >> [📺][hash-table-lec] )
-[hash-table-lec]: #paste-YouTube-link-here
-[hash-table-slides]: 01-junior-phase/22-hash-tables/hash-tables.pdf
-[//]: # ( Paste in table above >> [🧑‍💻][hash-table-demo] )
-[hash-table-demo]: #link-demo-here
-
-[//]: # ( Paste in table above >> [📺][algorithmic-prob-lec] )
-[algorithmic-prob-lec]: #paste-YouTube-link-here
-[algorithmic-prob-slides]: 01-junior-phase/22-hash-tables/searchAndDestroyLecture.pdf
-[//]: # ( Paste in table above >> [🧑‍💻][algorithmic-prob-demo] )
-[algorithmic-prob-demo]: #link-demo-here
-
-[//]: # ( Paste in table above >> [👾][search-destroy-sol] )
-[search-destroy-sol]: ###
-
-[//]: # ( Paste in table above >> [📺][am-rev-6-3] )
-[am-rev-6-3]: #paste-YouTube-link-here
-[//]: # ( Paste in table above >> [🎟][am-rev-6-3-ticket] )
-[am-rev-6-3-ticket]: #paste-google-form-link-here
-[//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-3-demo] )
-[am-rev-6-3-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [👾][am-rev-6-3-sol] )
-[am-rev-6-3-sol]: #paste-gist-here
-
 
 #### Day 4: Express Sessions, Login/Logout, Authentication
 
