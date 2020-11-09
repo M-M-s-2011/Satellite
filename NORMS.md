@@ -2,11 +2,18 @@
 
 ## Expectations for EVERYONE
 - Be on time
+- Be kind, be patient (with each other and yourself)
+- Emoji-response on Slack
+- Humor and lighthearted and levity, help the stress
 
 ## Expectations as a Student
 - Until programming is my job, it is my hobby
 - Make mistakes :)
 - Trust the process
+- Seeking help when necessary instead of spending too much time on problems
+- "Cultivate the opposite" 
+- "Becoming is better than being"
+- "The journey is the destination"
 
 ## Expectations of Instructors / Fellows
 - Provide resources on time
