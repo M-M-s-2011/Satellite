@@ -191,8 +191,9 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Junior Phase | - | - | - | - | - |
 | 5 Keys to Success | - | [🖼️][keys-success]  | - | - | - |
-| Intro to Pair Programming | - | [🖼️][pair-programming-slides] | - | - | - |
-| Git: Getting Confident | - | [🖼️][git-slides] | - | - | - |
+| Intro to Pair Programming | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | - | - | - |
+| Git: Getting Confident | [📺][git-lec] | [🖼️][git-slides] | - | - | - |
+| Git: Getting Confident 2 | [📺][git-lec-2] | [🖼️][git-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [🖼️][intro-jr-phase-slides] )
@@ -203,11 +204,12 @@ ___
 [zoom-slides]: #link-to-slide-deck-here
 
 [//]: # ( Paste in table above >> [📺][pair-programming-lec] )
-[pair-programming-lec]: #paste-YouTube-link-here
+[pair-programming-lec]: https://www.youtube.com/watch?v=j_9CZQmjS9A&feature=youtu.be
 [pair-programming-slides]: 01-junior-phase/01-collaboration-and-overview/01-pair-programming-min.pdf
 
 [//]: # ( Paste in table above >> [📺][git-lec] )
-[git-lec]: #paste-YouTube-link-here
+[git-lec]: https://www.youtube.com/watch?v=BkWs0qWSdZk&feature=youtu.be
+[git-lec-2]: https://www.youtube.com/watch?v=duReId-CeF0&feature=youtu.be
 [git-slides]: 01-junior-phase/01-collaboration-and-overview/git-intro-min.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][git-demo] )
 [git-demo]: #link-demo-here
