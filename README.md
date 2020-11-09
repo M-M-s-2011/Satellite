@@ -190,13 +190,14 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Junior Phase | - | - | - | - | - |
-| Zoom Protocols | - | - | - | - | - |
+| 5 Keys to Success | - | [🖼️][keys-success]  | - | - | - |
 | Intro to Pair Programming | - | [🖼️][pair-programming-slides] | - | - | - |
 | Git: Getting Confident | - | [🖼️][git-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [🖼️][intro-jr-phase-slides] )
 [intro-jr-phase-slides]: #link-to-slide-deck-here
+[keys-success]: 01-junior-phase/01-collaboration-and-overview/keys-to-success.pdf
 
 [//]: # ( Paste in table above >> [🖼️][zoom-slides] )
 [zoom-slides]: #link-to-slide-deck-here
@@ -1343,7 +1344,7 @@ ___
 </details>
 
 
-#### Day 3: Course review, JPFP 
+#### Day 3: Course review, JPFP
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
