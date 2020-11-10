@@ -83,9 +83,8 @@ ___
 
 | Topic | Link | Due by | Solution |
 | ---------- | ---- | ------ | -------- |
+| DOM | [🔗][ckpt-dom] | - | - |
 ** Will be added when opened
-
-<!-- | DOM | [🔗][ckpt-dom] | - | - | -->
 <!-- | Express & Sequelize | [🔗][ckpt-express-sequelize] | - | - | -->
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
