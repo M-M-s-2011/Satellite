@@ -254,33 +254,33 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTML & CSS | - | [🖼️][htmlcss-slides] | - | - | - |
-| Intro To Boxing | - | [🖼️][boxing-slides] | - | - | - |
-| Flexbox | - | [🖼️][flexbox-slides] | - | - | - |
-| Landing Page Liftoff | - | - | - | - | - |
+| HTML & CSS | [📺][htmlcss-lec] | [🖼️][htmlcss-slides] | - | - | - |
+| Intro To Boxing | [📺][intro-boxing-lec] | [🖼️][boxing-slides] | - | - | - |
+| Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | - | - |
+| Landing Page Liftoff | - | - | - | [👾][landing-page-sol] | [📺][landing-page-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][htmlcss-lec] )
-[htmlcss-lec]: #paste-YouTube-link-here
+[htmlcss-lec]: https://youtu.be/ddDOMfWs5Ys
 [htmlcss-slides]: 01-junior-phase/02-html-css/HTML&CSS.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][htmlcss-demo] )
 [htmlcss-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][intro-boxing-lec] )
-[intro-boxing-lec]: #paste-YouTube-link-here
+[intro-boxing-lec]: https://youtu.be/hRvLW21yMmM
 [boxing-slides]: 01-junior-phase/02-html-css/intro-to-boxing.pdf
 
 [//]: # ( Paste in table above >> [📺][flexbox-lec] )
-[flexbox-lec]: #paste-YouTube-link-here
+[flexbox-lec]: https://youtu.be/AB9-Rep1elA
 [flexbox-slides]: 01-junior-phase/03-DOM/flexbox.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][flexbox-demo] )
 [flexbox-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] )
-[landing-page-sol]: ####
+[landing-page-sol]: https://github.com/FullstackAcademy/Landing-Page-Launchpad/tree/solution
 [landing-page-sol-extra]: ####
 [//]: # ( Paste in table above >> [📺][landing-page-rev] )
-[landing-page-rev]: ####
+[landing-page-rev]: https://www.youtube.com/watch?v=TvTiebmefWY&feature=youtu.be
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
 [am-rev-1-2]: #paste-YouTube-link-here
