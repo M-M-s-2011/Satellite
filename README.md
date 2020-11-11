@@ -355,7 +355,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][selector-demo] )
 [selector-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][selector-js-sol] )
-[selector-js-sol]: 01-junior-phase/03-DOM/PairExercise.Selector-solution
+[selector-js-sol]: https://github.com/FullstackAcademy/PairExercise.Selector/tree/solution
 [//]: # ( Paste in table above >> [📺][selector-js-rev] )
 [selector-js-rev]: https://www.youtube.com/watch?v=vUcbywLzQS4&feature=youtu.be
 
