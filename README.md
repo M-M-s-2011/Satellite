@@ -336,17 +336,17 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Practical Debugging: Prevention| - | [🖼️][prevention-slides] | - | - | - |
-| Practical Debugging: Detection, Diagnosis & Treatment | - | [🖼️][ddt-slides] | - | - | - |
+| Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
+| Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
 | Intro to the DOM (Selector.js) | - | [🖼️][dom-intro-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
-[prevention-lec]: #paste-YouTube-link-here
+[prevention-lec]: https://www.youtube.com/watch?v=QQ4kDUhtULw&feature=youtu.be
 [prevention-slides]: 01-junior-phase/02-html-css/debugging-prevention-min.pdf
 
 [//]: # ( Paste in table above >> [📺][ddt-lec] )
-[ddt-lec]: #paste-YouTube-link-here
+[ddt-lec]: https://www.youtube.com/watch?v=Q1uZnhVN42c&feature=youtu.be
 [ddt-slides]: 01-junior-phase/02-html-css/debugging-detection-and-diagnosis-min.pdf
 
 [//]: # ( Paste in table above >> [📺][dom-intro-lec] )
