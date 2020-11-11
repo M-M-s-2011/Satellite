@@ -338,7 +338,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
-| Intro to the DOM (Selector.js) | - | [🖼️][dom-intro-slides] | - | - | - |
+| Intro to the DOM (Selector.js) | [📺][dom-intro-lec] | [🖼️][dom-intro-slides] | - | [👾][selector-js-sol] | [📺][selector-js-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
@@ -350,14 +350,14 @@ ___
 [ddt-slides]: 01-junior-phase/02-html-css/debugging-detection-and-diagnosis-min.pdf
 
 [//]: # ( Paste in table above >> [📺][dom-intro-lec] )
-[dom-intro-lec]: #paste-YouTube-link-here
+[dom-intro-lec]: https://www.youtube.com/watch?v=cKaOrrMR6h8&feature=youtu.be
 [dom-intro-slides]: 01-junior-phase/03-DOM/intro-to-the-dom-min.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][selector-demo] )
 [selector-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][selector-js-sol] )
-[selector-js-sol]: ###
+[selector-js-sol]: https://github.com/FullstackAcademy/2008-GHP-RM-WEB-FT/tree/master/01-junior-phase/03-DOM/PairExercise.Selector-solution
 [//]: # ( Paste in table above >> [📺][selector-js-rev] )
-[selector-js-rev]: ###
+[selector-js-rev]: https://www.youtube.com/watch?v=vUcbywLzQS4&feature=youtu.be
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-3] )
 [am-rev-1-3]: #paste-YouTube-link-here
