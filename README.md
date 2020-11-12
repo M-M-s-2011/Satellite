@@ -394,7 +394,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Event Listeners & Handlers (Whack-a-mole) | [📺][dom-events-lec] | [🖼️][dom-events-slides] | - | - | - |
-| Pixelate | - | - | - | - | - | - |
+| Pixelate | - | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
@@ -406,10 +406,10 @@ ___
 [whack-a-mole-sol]: ###
 [whack-a-mole-sol-timer]: ###
 
-[//]: # ( Paste in table above >> [👾][pixelate-sol] )
-[pixelate-sol]: ###
-[//]: # ( Paste in table above >> [📺][pixelate-rev] )
-[pixelate-rev]: ###
+[//]: # " Paste in table above >> [👾][pixelate-sol] "
+[pixelate-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution
+[//]: # " Paste in table above >> [📺][pixelate-rev] "
+[pixelate-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-4] )
 [am-rev-1-4]: #paste-YouTube-link-here
