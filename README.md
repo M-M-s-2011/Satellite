@@ -393,7 +393,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Event Listeners & Handlers (Whack-a-mole) | - | [🖼️][dom-events-slides] | - | - | - |
+| Event Listeners & Handlers (Whack-a-mole) | [📺][dom-events-lec] | [🖼️][dom-events-slides] | - | - | - |
 | Pixelate | - | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
