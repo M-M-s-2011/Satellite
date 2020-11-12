@@ -142,7 +142,7 @@ ___
 
 </details>
 
-**<details>🏃 Fitness Tracker Series**
+**🏃 <summary>Fitness Tracker Series</summary>**
 
 | Workshop | Link | Solution |
 | ----- | ---- | -------- |
@@ -167,8 +167,6 @@ ___
 [fitness-tracker-4]: https://learn.fullstackacademy.com/workshop/5c9110fc3fb0a40004e67bd8/landing
 [//]: # ( Paste in table above >> [👾][fitness-tracker-4-sol] )
 [fitness-tracker-4-sol]: #tba
-
-</details>
 
 ___
 
