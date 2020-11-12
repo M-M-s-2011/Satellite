@@ -398,8 +398,8 @@ ___
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
-[dom-events-lec]: #paste-YouTube-link-here
-[dom-events-slides]: 01-junior-phase/03-DOM/event-listeners-and-handlers.pdf
+[dom-events-lec]: https://www.youtube.com/watch?v=0f_vZst-l44&feature=youtu.be
+[dom-events-slides]: https://docs.google.com/presentation/d/1EYCbNRqzluqHbgGh_XRDw0bqAR7OE-X4fCgeTIXTG_k/edit?usp=sharing
 [//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
 [dom-events-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] )
