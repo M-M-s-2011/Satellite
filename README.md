@@ -394,7 +394,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Event Listeners & Handlers (Whack-a-mole) | [📺][dom-events-lec] | [🖼️][dom-events-slides] | - | - | - |
-| Pixelate | - | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
+| Pixelate | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
