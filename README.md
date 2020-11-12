@@ -142,7 +142,7 @@ ___
 
 </details>
 
-**<details><summary>🏃 Fitness Tracker Series</summary>**
+**<details>🏃 Fitness Tracker Series**
 
 | Workshop | Link | Solution |
 | ----- | ---- | -------- |
