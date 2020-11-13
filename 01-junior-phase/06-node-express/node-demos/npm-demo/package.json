@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "Demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2011-GHP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

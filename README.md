@@ -447,19 +447,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Node: Modules | - | [🖼️][node-slides] | - | - | - |
-| Intro to Node: Asyncronicity & Callbacks | - | [🖼️][node-async-slides] | - | - | - |
+| Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | [🧑‍💻][node-modules-demo] | - | - |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | [🧑‍💻][node-modules-demo] | - | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
-[node-modules-lec]: #paste-YouTube-link-here
-[node-slides]: 01-junior-phase/06-node-express/intro-node-cg.pdf
+[node-modules-lec]: https://youtu.be/b1Otam0qJZg
+[node-slides]: 01-junior-phase/06-node-express/Node-Node-Modules.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][node-modules-demo] )
-[node-modules-demo]: #link-demo-here
+[node-modules-demo]: 01-junior-phase/06-node-express/node-demos
 
 [//]: # ( Paste in table above >> [📺][node-async-lec] )
-[node-async-lec]: #paste-YouTube-link-here
+[node-async-lec]: https://youtu.be/onNiNKPXhV8
 [node-async-slides]: 01-junior-phase/06-node-express/intro-async-cg.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][node-async-demo] )
 [node-async-demo]: #link-demo-here
