@@ -448,7 +448,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | [🧑‍💻][node-modules-demo] | - | - |
-| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | [🧑‍💻][node-modules-demo] | - | - |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | [🧑‍💻][node-modules-demo] | [👾][node-shell-sol] | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
@@ -464,7 +464,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][node-async-demo] )
 [node-async-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][node-shell-sol] )
-[node-shell-sol]: ###
+[node-shell-sol]: 01-junior-phase/06-node-express/node-shell-sol
 
 [//]: # ( Paste in table above >> [📺][give-recieve-feedback-lec] )
 [give-recieve-feedback-lec]: #paste-YouTube-link-here
