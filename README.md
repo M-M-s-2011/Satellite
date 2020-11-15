@@ -172,7 +172,7 @@ ___
 
 ### **Week 1: Collaboration & Git, HTML & CSS, Debugging, DOM & Events, Node**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Collaboration, Git
 
@@ -493,7 +493,6 @@ ___
 </details>
 
 
-<!--
 
 </details>
 
@@ -501,7 +500,7 @@ ___
 
 ### **Week 2: Express, Async/Await, Databases (PostgreSQL), ORMs (Sequelize)**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Express, Handling Asynchronous Operations (`async`/`await`)
 
@@ -807,8 +806,9 @@ ___
   - Utilize eager loading in Sequelize queries
   - Write class and instance methods on Sequelize models
 
-</details>
+<!-- </details> -->
 
+<!--
 ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
