@@ -520,7 +520,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
-| `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] ) | - |
+| `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
 | Morning Review | - | - | - | - | - |
 
 [express-101-lec]: https://youtu.be/YHGzDz-K9_Q
@@ -536,7 +536,7 @@ ___
 
 [async-await-lec]: #TBD
 [async-await-slides]: 01-junior-phase/08-async-pg-express/async-await.pdf
-[async-await-demo]: 01-junior-phase/08-async-pg-express/async-await-demo
+[async-await-demo]: 01-junior-phase/06-node-express/async-await-demo
 [async-await-sol]: 01-junior-phase/06-node-express/Solution.Lab.AsyncAwait
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
