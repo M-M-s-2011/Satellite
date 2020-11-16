@@ -93,7 +93,7 @@ ___
 [//]: # ( Paste in table above >> [👾][ckpt-dom-sol] )
 [ckpt-dom-sol]: #tbd
 
-[ckpt-express]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
+[ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
 [//]: # ( Paste in table above >> [👾][ckpt-express-sol] )
 [ckpt-express-sol]: #tbd
 
