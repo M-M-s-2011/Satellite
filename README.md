@@ -519,29 +519,26 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
-| Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | - | - |
-| `async`/`await` | - | [🖼️][async-await-slides] | - | - | - |
+| Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
+| `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | - | - |
 | Morning Review | - | - | - | - | - |
 
-[express-101-lec]: #TBD
+[express-101-lec]: https://youtu.be/YHGzDz-K9_Q
 [express-101-slides]: 01-junior-phase/06-node-express/express-101-cg.pdf
 [express-101-demo]: 01-junior-phase/06-node-express/express-demo-1
 
-[express-201-lec]: #TBD
+[express-201-lec]: https://youtu.be/Dawp7xtFhKw
 [express-201-slides]: 01-junior-phase/06-node-express/express-201-cg.pdf
 [express-201-demo]: 01-junior-phase/06-node-express/express-demo-2
-[//]: # ( Paste in table above >> [👾][express-wizard-1-sol] )
-[express-wizard-1-sol]: ###
-[//]: # ( Paste in table above >> [📺][express-wizard-1-rev] )
-[express-wizard-1-rev]: ###
 
-[//]: # ( Paste in table above >> [📺][async-await-lec] )
+[express-wizard-1-sol]: 01-junior-phase/06-node-express/Solution.WizardNews1
+[express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4&feature=youtu.be
+
 [async-await-lec]: #TBD
 [async-await-slides]: 01-junior-phase/08-async-pg-express/async-await.pdf
-[//]: # ( Paste in table above >> [🧑‍💻][async-await-demo] )
-[async-await-demo]: ###
+[async-await-demo]: 01-junior-phase/08-async-pg-express/async-await-demo
 [//]: # ( Paste in table above >> [👾][async-await-sol] )
-[async-await-sol]: ###
+[async-await-sol]: 01-junior-phase/06-node-express/Solution.Lab.AsyncAwait
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
 [am-rev-2-1]: #paste-YouTube-link-here
