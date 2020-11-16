@@ -450,7 +450,7 @@ ___
 | Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | [🧑‍💻][node-modules-demo] | - | - |
 | Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | [🧑‍💻][node-modules-demo] | [👾][node-shell-sol] | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | [📺][am-rev-1-5] | [🎟][am-rev-1-5-ticket] | [🧑‍💻][am-rev-1-5-demo] | [👾][am-rev-1-5-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
 [node-modules-lec]: https://youtu.be/b1Otam0qJZg
@@ -472,13 +472,13 @@ ___
 [give-recieve-feedback-slides]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-5] )
-[am-rev-1-5]: #paste-YouTube-link-here
+[am-rev-1-5]: https://youtu.be/HsSq2CQddUY
 [//]: # ( Paste in table above >> [🎟][am-rev-1-5-ticket] )
-[am-rev-1-5-ticket]: #paste-google-form-link-here
+[am-rev-1-5-ticket]: https://forms.gle/YBCmSCY4XGR685mi6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-5-demo] )
-[am-rev-1-5-demo]: #link-demo-here
+[am-rev-1-5-demo]: 01-junior-phase/06-node-express/node-mr
 [//]: # ( Paste in table above >> [👾][am-rev-1-5-sol] )
-[am-rev-1-5-sol]: #paste-gist-here
+[am-rev-1-5-sol]: https://hackmd.io/@2ctk-Q4uQAmhb4qw1GghPA/BymU9Ml5D
 
 - **You should be able to:**
   - Explain the purpose of Node
