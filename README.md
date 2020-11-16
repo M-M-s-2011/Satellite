@@ -518,29 +518,25 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTTP and Express 101 | - | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
-| Express 201 (Wizard News Pt 1) | - | [🖼️][express-201-slides] | - | - | - |
+| HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
+| Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | - | - |
 | `async`/`await` | - | [🖼️][async-await-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][express-101-lec] )
-[express-101-lec]: #paste-YouTube-link-here
+[express-101-lec]: #TBD
 [express-101-slides]: 01-junior-phase/06-node-express/express-101-cg.pdf
-[//]: # ( Paste in table above >> [🧑‍💻][express-101-demo] )
 [express-101-demo]: 01-junior-phase/06-node-express/express-demo-1
 
-[//]: # ( Paste in table above >> [📺][express-201-lec] )
-[express-201-lec]: #paste-YouTube-link-here
+[express-201-lec]: #TBD
 [express-201-slides]: 01-junior-phase/06-node-express/express-201-cg.pdf
-[//]: # ( Paste in table above >> [🧑‍💻][express-201-demo] )
-[express-201-demo]: #link-demo-here
+[express-201-demo]: 01-junior-phase/06-node-express/express-demo-2
 [//]: # ( Paste in table above >> [👾][express-wizard-1-sol] )
 [express-wizard-1-sol]: ###
 [//]: # ( Paste in table above >> [📺][express-wizard-1-rev] )
 [express-wizard-1-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][async-await-lec] )
-[async-await-lec]: #paste-YouTube-link-here
+[async-await-lec]: #TBD
 [async-await-slides]: 01-junior-phase/08-async-pg-express/async-await.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][async-await-demo] )
 [async-await-demo]: ###
