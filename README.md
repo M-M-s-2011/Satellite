@@ -83,9 +83,8 @@ ___
 
 | Topic | Link | Due by | Solution |
 | ---------- | ---- | ------ | -------- |
-| DOM | [🔗][ckpt-dom] | - | - |
-** Will be added when opened
-<!-- | Express & Sequelize | [🔗][ckpt-express-sequelize] | - | - | -->
+| DOM | [🔗][ckpt-dom] | Sun, Nov 15 | TBD |
+| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | - |
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
@@ -521,7 +520,7 @@ ___
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
 | `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-1-ticket] | - | - | - |
 
 [express-101-lec]: https://youtu.be/YHGzDz-K9_Q
 [express-101-slides]: 01-junior-phase/06-node-express/express-101-cg.pdf
@@ -542,7 +541,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
 [am-rev-2-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
-[am-rev-2-1-ticket]: #paste-google-form-link-here
+[am-rev-2-1-ticket]: https://forms.gle/Vk7AuyG2gSTS1FSU8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
