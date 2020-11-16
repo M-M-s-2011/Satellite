@@ -518,7 +518,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTTP and Express 101 | - | [🖼️][express-101-slides] | - | - | - |
+| HTTP and Express 101 | - | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | - | [🖼️][express-201-slides] | - | - | - |
 | `async`/`await` | - | [🖼️][async-await-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
@@ -527,7 +527,7 @@ ___
 [express-101-lec]: #paste-YouTube-link-here
 [express-101-slides]: 01-junior-phase/06-node-express/express-101-cg.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][express-101-demo] )
-[express-101-demo]: #link-demo-here
+[express-101-demo]: 01-junior-phase/06-node-express/express-demo-1
 
 [//]: # ( Paste in table above >> [📺][express-201-lec] )
 [express-201-lec]: #paste-YouTube-link-here
