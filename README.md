@@ -533,7 +533,7 @@ ___
 [express-wizard-1-sol]: 01-junior-phase/06-node-express/Solution.WizardNews1
 [express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4&feature=youtu.be
 
-[async-await-lec]: #TBD
+[async-await-lec]: https://youtu.be/lZpcz7ewpMQ
 [async-await-slides]: 01-junior-phase/08-async-pg-express/async-await.pdf
 [async-await-demo]: 01-junior-phase/06-node-express/async-await-demo
 [async-await-sol]: 01-junior-phase/06-node-express/Solution.Lab.AsyncAwait
