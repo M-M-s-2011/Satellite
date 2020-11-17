@@ -581,11 +581,11 @@ ___
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
-[db-lec]: #paste-YouTube-link-here
+[db-lec]: https://www.youtube.com/watch?v=hMJJuBsdrdM&feature=youtu.be
 [db-slides]: 01-junior-phase/07-databases/intro-to-db.pdf
 
 [//]: # ( Paste in table above >> [📺][sql-lec] )
-[sql-lec]: #paste-YouTube-link-here
+[sql-lec]: https://www.youtube.com/watch?v=6ivxRhgJRpQ&feature=youtu.be
 [sql-slides]: 01-junior-phase/07-databases/intro-to-sql.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
 [sql-demo]: #link-demo-here
