@@ -575,23 +575,23 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Databases & PostgreSQL | - | [🖼️][db-slides] | - | - | - |
-| Intro to SQL | - | [🖼️][sql-slides] | - | - | - |
-| Schema Design | - | [🖼️][schema-slides] | - | - | - |
+| Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
+| Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
+| Schema Design | [📺][schema-lec] | [🖼️][schema-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
-[db-lec]: #paste-YouTube-link-here
+[db-lec]: https://www.youtube.com/watch?v=hMJJuBsdrdM&feature=youtu.be
 [db-slides]: 01-junior-phase/07-databases/intro-to-db.pdf
 
 [//]: # ( Paste in table above >> [📺][sql-lec] )
-[sql-lec]: #paste-YouTube-link-here
+[sql-lec]: https://www.youtube.com/watch?v=6ivxRhgJRpQ&feature=youtu.be
 [sql-slides]: 01-junior-phase/07-databases/intro-to-sql.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
 [sql-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][schema-lec] )
-[schema-lec]: #paste-YouTube-link-here
+[schema-lec]: https://www.youtube.com/watch?v=YCKOBeYOkiI&feature=youtu.be
 [schema-slides]: 01-junior-phase/07-databases/intro-to-schema.pdf
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-2] )
