@@ -575,8 +575,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Databases & PostgreSQL | - | [🖼️][db-slides] | - | - | - |
-| Intro to SQL | - | [🖼️][sql-slides] | - | - | - |
+| Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
+| Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
 | Schema Design | - | [🖼️][schema-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
