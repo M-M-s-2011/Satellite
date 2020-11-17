@@ -6,6 +6,7 @@ This will be your main place for Fullstack-related materials!
 
 <details><summary>Click to view</summary>
 
+- [📺 Lecture: Software Engineering Mindset][eng-mindset-lec]
 - [🗺 Stack Map Diagram][stack-map-diagram]
 - [📺 Video: Debugging Node][vid-debugging-node]
 - [📖 Effective git and github usage for pairing on workshops][git-pairing]
@@ -24,6 +25,7 @@ This will be your main place for Fullstack-related materials!
   - [📖 A Dead Simple intro to Destructuring JavaScript Objects][wes-bos-destructuring]
   - [📖 Rename & Destructure Variables in ES6][wes-bos-destructure-renaming]
 
+[eng-mindset-lec]: https://youtu.be/lzidc_bPFL8
 [stack-map-diagram]: https://fullstackacademy.github.io/stack-map/
 [vid-debugging-node]: https://youtu.be/N9w__SIB-wA
 [git-pairing]: https://gist.github.com/omriBernstein/4fd2c21be8416d5e5a69aabc6fa94b82
