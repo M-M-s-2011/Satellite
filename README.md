@@ -577,7 +577,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
-| Schema Design | - | [🖼️][schema-slides] | - | - | - |
+| Schema Design | [📺][schema-lec] | [🖼️][schema-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
@@ -591,7 +591,7 @@ ___
 [sql-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][schema-lec] )
-[schema-lec]: #paste-YouTube-link-here
+[schema-lec]: https://www.youtube.com/watch?v=YCKOBeYOkiI&feature=youtu.be
 [schema-slides]: 01-junior-phase/07-databases/intro-to-schema.pdf
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-2] )
