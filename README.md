@@ -520,7 +520,7 @@ ___
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
 | `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-1-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-1] | [🎟][am-rev-2-1-ticket] | [🧑‍💻 try-catch][am-rev-2-1-demo] | [👾][am-rev-2-1-sol] | - |
 
 [express-101-lec]: https://youtu.be/YHGzDz-K9_Q
 [express-101-slides]: 01-junior-phase/06-node-express/express-101-cg.pdf
@@ -539,13 +539,13 @@ ___
 [async-await-sol]: 01-junior-phase/06-node-express/Solution.Lab.AsyncAwait
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
-[am-rev-2-1]: #paste-YouTube-link-here
+[am-rev-2-1]: https://youtu.be/iZDS3MkjEg0
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
 [am-rev-2-1-ticket]: https://forms.gle/Vk7AuyG2gSTS1FSU8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
-[am-rev-2-1-demo]: #link-demo-here
+[am-rev-2-1-demo]: 01-junior-phase/06-node-express/express-mr/trycatch.js
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
-[am-rev-2-1-sol]: #paste-gist-here
+[am-rev-2-1-sol]: 01-junior-phase/06-node-express/express-mr/exit-ticket-solution.md
 
 - **You should be able to:**
   - Describe the role of a client, a server, and HTTP

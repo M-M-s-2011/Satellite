@@ -35,6 +35,7 @@ app.get('/mightWork', (req, res, next) => {
   }
   catch(err) {
     // handle the error
+    res.sendFile('path to my error.html');
     res.send('something went wrong: ', err.message);
   }
 })
