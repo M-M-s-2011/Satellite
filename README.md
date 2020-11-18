@@ -647,7 +647,7 @@ ___
 | Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
-[node-postgres-lec]: #paste-YouTube-link-here
+[node-postgres-lec]: https://youtu.be/yv5o4DJpoVo
 [node-postgres-slides]: 01-junior-phase/08-async-pg-express/node-postgres.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][node-postgres-demo] )
 [node-postgres-demo]: 01-junior-phase/08-async-pg-express/pg-demo
@@ -657,7 +657,7 @@ ___
 [wizard-news-2-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl
 
 [//]: # ( Paste in table above >> [📺][restful-express-lec] )
-[restful-express-lec]: #paste-YouTube-link-here
+[restful-express-lec]: https://youtu.be/URkRvvOljCE
 [restful-express-slides]: 01-junior-phase/08-async-pg-express/express-routes.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][restful-express-demo] )
 [restful-express-demo]: #link-demo-here
