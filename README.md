@@ -640,7 +640,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | - | - | - |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | - |
 | RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
@@ -648,7 +648,7 @@ ___
 [node-postgres-lec]: #paste-YouTube-link-here
 [node-postgres-slides]: 01-junior-phase/08-async-pg-express/node-postgres.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][node-postgres-demo] )
-[node-postgres-demo]: #link-demo-here
+[node-postgres-demo]: 01-junior-phase/08-async-pg-express/pg-demo
 [//]: # ( Paste in table above >> [👾][wizard-news-2-sol] )
 [wizard-news-2-sol]: ###
 [//]: # ( Paste in table above >> [📺][wizard-news-2-rev] )
