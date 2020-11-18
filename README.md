@@ -640,8 +640,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | - |
-| RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | - | - |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | [📺][wizard-news-2-rev] |
+| RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
@@ -652,7 +652,7 @@ ___
 [//]: # ( Paste in table above >> [👾][wizard-news-2-sol] )
 [wizard-news-2-sol]: ###
 [//]: # ( Paste in table above >> [📺][wizard-news-2-rev] )
-[wizard-news-2-rev]: ###
+[wizard-news-2-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl
 
 [//]: # ( Paste in table above >> [📺][restful-express-lec] )
 [restful-express-lec]: #paste-YouTube-link-here
@@ -660,9 +660,9 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][restful-express-demo] )
 [restful-express-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][wizard-news-3-sol] )
-[wizard-news-3-sol]: ###
+[wizard-news-3-sol]: 01-junior-phase/08-async-pg-express/Solution.Wizard-news
 [//]: # ( Paste in table above >> [📺][wizard-news-3-rev] )
-[wizard-news-3-rev]: ###
+[wizard-news-3-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlBAQOjZdHZ5EOZta0l9e2L
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
 [am-rev-2-3]: #paste-YouTube-link-here
