@@ -116,16 +116,18 @@ ___
 
 | Topic | Link | Solution |
 | ----- | ---- | -------- |
-** Will be added when opened
+| Cody's Cafe | [🔗][codys-cafe-repo] | [👾 Coming soon!][codys-cafe-sol] |
 
 <!-- | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] | -->
 <!-- | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] | -->
-<!-- | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] | -->
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
 <!-- | Goodie Bag | [🔗][goodie-bag] | - | -->
 <!-- | Study Saturday: Fullstack Flow | [🔗][ss-fullstack] | [👾][ss-fullstack-sol] | -->
 
-[//]: # ( Open Study Saturday material the following Monday )
+[//]: # ( Open Study Saturday material the PREVIOUS FRIDAY )
+
+[codys-cafe-repo]: https://github.com/FullstackAcademy/codys-cafe
+[codys-cafe-sol]: #TBD
 
 [ss-express-sequelize]: https://github.com/FullstackAcademy/Study-Saturday-Express-Sequelize
 [ss-express-sequelize-sol]: #tba
@@ -642,7 +644,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | [📺][wizard-news-2-rev] |
 | RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
 [node-postgres-lec]: #paste-YouTube-link-here
@@ -667,7 +669,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
 [am-rev-2-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-3-ticket] )
-[am-rev-2-3-ticket]: #paste-google-form-link-here
+[am-rev-2-3-ticket]: https://forms.gle/AxSZfMKiU8FbZMc46
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-3-sol] )
