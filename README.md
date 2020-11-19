@@ -642,8 +642,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | [📺][wizard-news-2-rev] |
-| RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | [📺][wizard-news-2-rev] |
+| RESTful Routing (Wizard News Pt 3) | [📺][restful-express-lec]  | [🖼️][restful-express-slides] | - | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
 | Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
