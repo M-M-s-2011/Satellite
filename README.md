@@ -644,7 +644,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | - | [📺][wizard-news-2-rev] |
 | RESTful Routing (Wizard News Pt 3) | [📺][restful-express-lec]  | [🖼️][restful-express-slides] | - | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
-| Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-3] | [🎟][am-rev-2-3-ticket] | (see comments in wnews) | [👾][am-rev-2-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
 [node-postgres-lec]: https://youtu.be/yv5o4DJpoVo
@@ -667,13 +667,13 @@ ___
 [wizard-news-3-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlBAQOjZdHZ5EOZta0l9e2L
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
-[am-rev-2-3]: #paste-YouTube-link-here
+[am-rev-2-3]: https://youtu.be/VNF6qfPjntU
 [//]: # ( Paste in table above >> [🎟][am-rev-2-3-ticket] )
 [am-rev-2-3-ticket]: https://forms.gle/AxSZfMKiU8FbZMc46
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-3-sol] )
-[am-rev-2-3-sol]: #paste-gist-here
+[am-rev-2-3-sol]: 01-junior-phase/06-node-express/exit-ticket-solution.md
 
 - **You should be able to:**
   - Describe the role of `pg` in our stack
