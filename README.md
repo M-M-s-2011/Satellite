@@ -726,7 +726,7 @@ ___
 [orm-lec]: #paste-YouTube-link-here
 [orm-slides]: 01-junior-phase/09-wikistack/intro-to-orms.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][orm-demo] )
-[orm-demo]: https://github.com/mmac1020/intro-to-orms-demo
+[orm-demo]: https://github.com/mmac1020/intro-to-orms-demo/tree/local-demo
 [//]: # ( Paste in table above >> [👾][orm-sol] )
 [orm-sol]: ###link-sequelize-lab-solution-here
 
