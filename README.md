@@ -719,7 +719,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to ORMs (Sequelize) | [📺][orm-lec] | [🖼️][orm-slides] | [🧑‍💻][orm-demo] | - | - |
-| Wikistack 1 | - | - | - | - | - |
+| Wikistack 1 | - | - | - | [👾][wikistack-1-sol] | [📺][wikistack-1-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec] )
@@ -731,9 +731,9 @@ ___
 [orm-sol]: ###link-sequelize-lab-solution-here
 
 [//]: # ( Paste in table above >> [👾][wikistack-1-sol] )
-[wikistack-1-sol]: ###
+[wikistack-1-sol]: https://github.com/FullstackAcademy/Solution.Wikistack1
 [//]: # ( Paste in table above >> [📺][wikistack-1-rev] )
-[wikistack-1-rev]: ###
+[wikistack-1-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-4] )
 [am-rev-2-4]: #paste-YouTube-link-here
