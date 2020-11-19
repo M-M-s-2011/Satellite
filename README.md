@@ -85,8 +85,8 @@ ___
 
 | Topic | Link | Due by | Solution |
 | ---------- | ---- | ------ | -------- |
-| DOM | [🔗][ckpt-dom] | Sun, Nov 15 | TBD |
-| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | [👾][ckpt-dom-sol] |
+| DOM | [🔗][ckpt-dom] | Sun, Nov 15 | [👾][ckpt-dom-sol] |
+| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | - |
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
