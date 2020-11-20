@@ -773,23 +773,23 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Express & Sequelize Rounding Out | - | [🖼️][rounding-out-slides] | - | - | - |
-| Wikistack 2 | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Express & Sequelize Rounding Out | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | - | - | - |
+| Wikistack 2 | - | - | - | 👾][wikistack-2-sol] | - |
+| Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
-[rounding-out-lec]: #paste-YouTube-link-here
+[rounding-out-lec]: #PENDING
 [rounding-out-slides]: 01-junior-phase/10-wikistack2/rounding-out.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][rounding-out-lec-demo] )
 [rounding-out-lec-demo]: ###
 
 [//]: # ( Paste in table above >> [👾][wikistack-2-sol] )
-[wikistack-2-sol]: ###
+[wikistack-2-sol]: 01-junior-phase/10-wikistack2/Solution.Wikistack2
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-5] )
 [am-rev-2-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-5-ticket] )
-[am-rev-2-5-ticket]: #paste-google-form-link-here
+[am-rev-2-5-ticket]: https://forms.gle/DdzkFfzoqz4a4bfx5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
 [am-rev-2-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-5-sol] )
