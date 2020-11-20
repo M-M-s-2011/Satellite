@@ -774,7 +774,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Express & Sequelize Rounding Out | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | - | - | - |
-| Wikistack 2 | - | - | - | 👾][wikistack-2-sol] | - |
+| Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
 | Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
