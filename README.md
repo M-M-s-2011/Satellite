@@ -150,8 +150,7 @@ ___
 | Workshop | Link | Solution |
 | ----- | ---- | -------- |
 | Fitness Tracker Pro 1 ⛹️ | [🔗][fitness-tracker-1] | [👾][fitness-tracker-1-sol] |
-** Will be added when opened
-<!-- | Fitness Tracker Pro 2 🚴 | [🔗][fitness-tracker-2] | - | -->
+| Fitness Tracker Pro 2 🚴 | [🔗][fitness-tracker-2] | [👾][fitness-tracker-2-sol] |
 <!-- | Fitness Tracker Pro 3 🧗 | [🔗][fitness-tracker-3] | - | -->
 <!-- | Fitness Tracker Pro 4 🧗 | [🔗][fitness-tracker-4] | - | -->
 
@@ -161,7 +160,7 @@ ___
 
 [fitness-tracker-2]: https://learn.fullstackacademy.com/workshop/5c7d659837e0d200045b7a77/landing
 [//]: # ( Paste in table above >> [👾][fitness-tracker-2-sol] )
-[fitness-tracker-2-sol]: #tba
+[fitness-tracker-2-sol]: https://github.com/FullstackAcademy/Fitness-Tracker-Week2/tree/solution
 
 [fitness-tracker-3]: https://learn.fullstackacademy.com/workshop/5c86c0b95587580004b80c3f/landing
 [//]: # ( Paste in table above >> [👾][fitness-tracker-3-sol] )
