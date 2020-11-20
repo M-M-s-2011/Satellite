@@ -116,9 +116,9 @@ ___
 
 | Topic | Link | Solution |
 | ----- | ---- | -------- |
-| Cody's Cafe | [🔗][codys-cafe-repo] | [👾 Coming soon!][codys-cafe-sol] |
+| Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] |
+| Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] |
 
-<!-- | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] | -->
 <!-- | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] | -->
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
 <!-- | Goodie Bag | [🔗][goodie-bag] | - | -->
@@ -127,10 +127,10 @@ ___
 [//]: # ( Open Study Saturday material the PREVIOUS FRIDAY )
 
 [codys-cafe-repo]: https://github.com/FullstackAcademy/codys-cafe
-[codys-cafe-sol]: #TBD
+[codys-cafe-sol]: https://github.com/FullstackAcademy/codys-cafe-solution
 
 [ss-express-sequelize]: https://github.com/FullstackAcademy/Study-Saturday-Express-Sequelize
-[ss-express-sequelize-sol]: #tba
+[ss-express-sequelize-sol]: https://github.com/FullstackAcademy/Study-Saturday-Express-Sequelize/tree/solution
 
 [ss-react]: https://github.com/FullstackAcademy/Study-Saturday-React
 [ss-react-sol]: #tba
