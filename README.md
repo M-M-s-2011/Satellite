@@ -85,7 +85,7 @@ ___
 
 | Topic | Link | Due by | Solution |
 | ---------- | ---- | ------ | -------- |
-| DOM | [🔗][ckpt-dom] | Sun, Nov 15 | TBD |
+| DOM | [🔗][ckpt-dom] | Sun, Nov 15 | [👾][ckpt-dom-sol] |
 | Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | - |
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
@@ -93,7 +93,7 @@ ___
 
 [ckpt-dom]: https://github.com/FullstackAcademy/Checkpoint.DOM
 [//]: # ( Paste in table above >> [👾][ckpt-dom-sol] )
-[ckpt-dom-sol]: #tbd
+[ckpt-dom-sol]: 01-junior-phase/checkpoints/01-junior-phase/Checkpoint.DOM.Solution
 
 [ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
 [//]: # ( Paste in table above >> [👾][ckpt-express-sol] )
@@ -719,7 +719,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to ORMs (Sequelize) | [📺][orm-lec] | [🖼️][orm-slides] | [🧑‍💻][orm-demo] | - | - |
-| Wikistack 1 | - | - | - | - | - |
+| Wikistack 1 | - | - | - | [👾][wikistack-1-sol] | [📺][wikistack-1-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec] )
@@ -731,9 +731,9 @@ ___
 [orm-sol]: ###link-sequelize-lab-solution-here
 
 [//]: # ( Paste in table above >> [👾][wikistack-1-sol] )
-[wikistack-1-sol]: ###
+[wikistack-1-sol]: https://github.com/FullstackAcademy/Solution.Wikistack1
 [//]: # ( Paste in table above >> [📺][wikistack-1-rev] )
-[wikistack-1-rev]: ###
+[wikistack-1-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-4] )
 [am-rev-2-4]: #paste-YouTube-link-here
