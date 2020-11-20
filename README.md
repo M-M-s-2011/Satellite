@@ -802,7 +802,7 @@ ___
 
 <!-- </details> -->
 
-<!--
+
 ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
@@ -968,6 +968,8 @@ ___
     - [bitsofcode: Understanding the Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/)
 
 </details>
+
+<!--
 
 </details>
 
