@@ -807,7 +807,7 @@ ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Front-End Modules, Trip Planner
 
