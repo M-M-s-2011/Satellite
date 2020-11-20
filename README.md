@@ -778,7 +778,7 @@ ___
 | Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
-[rounding-out-lec]: #PENDING
+[rounding-out-lec]: https://youtu.be/9FmYT4z6UR8
 [rounding-out-slides]: 01-junior-phase/10-wikistack2/rounding-out.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][rounding-out-lec-demo] )
 [rounding-out-lec-demo]: ###
