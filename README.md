@@ -112,7 +112,7 @@ ___
 [ckpt-data-structures-sol]: #tbd
 
 
-**<details><summary>📚 Supplemental Study Materials</summary>**
+**📚 Supplemental Study Materials**
 
 | Topic | Link | Solution |
 | ----- | ---- | -------- |
@@ -143,9 +143,7 @@ ___
 - [Anatomy of a full-stack application directory structure](https://app.creately.com/diagram/M63wZ4CZnOh/view)
   - **Note:** This is just _one_ potential way to structure.
 
-</details>
-
-**🏃 <summary>Fitness Tracker Series</summary>**
+**🏃 Fitness Tracker Series**
 
 | Workshop | Link | Solution |
 | ----- | ---- | -------- |
