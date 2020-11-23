@@ -817,9 +817,9 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | ES Modules | [📺][es-modules-lec] | [🖼️ ][es-modules-slides] | - | - | - |
-| Front-End Modules (Webpack) </br> (Trip Planner 1) | [📺][webpack-lec] | (N/A - live code) | [🧑‍💻][webpack-demo] | - | - |
-| SPA & AJAX (Trip Planner 2) | - | [🖼️][spa-ajax-slides] | [🧑‍💻][spa-ajax-demo] | - | - |
-| Morning Review | - | - | - | - | - |
+| Front-End Modules (Webpack) </br> (Trip Planner 1) | [📺][webpack-lec] | (N/A - live code) | [🧑‍💻][webpack-demo] | [👾][trip-planner-1-sol] | [📺][trip-planner-1-rev] |
+| SPA & AJAX (Trip Planner 2) | [📺][spa-ajax-lec] | [🖼️][spa-ajax-slides] | [🧑‍💻][spa-ajax-demo] | [👾][trip-planner-2-sol] | [📺][trip-planner-2-rev] |
+| Morning Review | - | [🎟][am-rev-3-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][es-modules-lec] )
 [es-modules-lec]: https://youtu.be/YXHaNgT-aZ0
@@ -833,12 +833,12 @@ ___
 [webpack-demo]: 01-junior-phase/11-modules-trip-planner/webpack
 
 [//]: # ( Paste in table above >> [👾][trip-planner-1-sol] )
-[trip-planner-1-sol]: ###
+[trip-planner-1-sol]: https://github.com/FullstackAcademy/tripplanner-spa-start
 [//]: # ( Paste in table above >> [📺][trip-planner-1-rev] )
-[trip-planner-1-rev]: ###
+[trip-planner-1-rev]: https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be
 
 [//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
-[spa-ajax-lec]: #paste-YouTube-link-here
+[spa-ajax-lec]: https://youtu.be/ACfkpWLy7zY
 [spa-ajax-slides]: 01-junior-phase/11-modules-trip-planner/spa-ajax.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
 [spa-ajax-demo]: 01-junior-phase/11-modules-trip-planner/fetch
@@ -846,12 +846,12 @@ ___
 [//]: # ( Paste in table above >> [👾][trip-planner-2-sol] )
 [trip-planner-2-sol]: ###
 [//]: # ( Paste in table above >> [📺][trip-planner-2-rev] )
-[trip-planner-2-rev]: ###
+[trip-planner-2-rev]: https://www.youtube.com/watch?v=7hum7WQMS7s&feature=youtu.be
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-1] )
 [am-rev-3-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-1-ticket] )
-[am-rev-3-1-ticket]: #paste-google-form-link-here
+[am-rev-3-1-ticket]: https://forms.gle/aD92rCkx6trVheJT8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-1-demo] )
 [am-rev-3-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-1-sol] )
