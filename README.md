@@ -86,7 +86,7 @@ ___
 | Topic | Link | Due by | Solution |
 | ---------- | ---- | ------ | -------- |
 | DOM | [🔗][ckpt-dom] | Sun, Nov 15 | [👾][ckpt-dom-sol] |
-| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | - |
+| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | [👾][ckpt-express-sol] |
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
@@ -97,7 +97,7 @@ ___
 
 [ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
 [//]: # ( Paste in table above >> [👾][ckpt-express-sol] )
-[ckpt-express-sol]: #tbd
+[ckpt-express-sol]: 01-junior-phase/checkpoints/01-junior-phase/Checkpoint.Express-Sequelize.Solution
 
 [ckpt-react]: https://github.com/FullstackAcademy/Checkpoint-React-v2
 [//]: # ( Paste in table above >> [👾][ckpt-react-sol] )
