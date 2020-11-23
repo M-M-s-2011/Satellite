@@ -844,7 +844,7 @@ ___
 [spa-ajax-demo]: 01-junior-phase/11-modules-trip-planner/fetch
 
 [//]: # ( Paste in table above >> [👾][trip-planner-2-sol] )
-[trip-planner-2-sol]: ###
+[trip-planner-2-sol]: 01-junior-phase/11-modules-trip-planner/TripPlanner2.Solution
 [//]: # ( Paste in table above >> [📺][trip-planner-2-rev] )
 [trip-planner-2-rev]: https://www.youtube.com/watch?v=7hum7WQMS7s&feature=youtu.be
 
