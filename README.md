@@ -500,7 +500,7 @@ ___
 
 ### **Week 2: Express, Async/Await, Databases (PostgreSQL), ORMs (Sequelize)**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Express, Handling Asynchronous Operations (`async`/`await`)
 
@@ -798,7 +798,7 @@ ___
   - Utilize eager loading in Sequelize queries
   - Write class and instance methods on Sequelize models
 
-<!-- </details> -->
+</details>
 
 
 ___
@@ -817,7 +817,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | ES Modules | - | [🖼️ ][es-modules-slides] | - | - | - |
-| Front-End Modules (Webpack) </br> (Trip Planner 1) | - | [🖼️][webpack-slides] | - | - | - |
+| Front-End Modules (Webpack) </br> (Trip Planner 1) | - | (N/A - live code) | [🧑‍💻][webpack-demo] | - | - |
 | SPA & AJAX (Trip Planner 2) | - | [🖼️][spa-ajax-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
@@ -829,10 +829,8 @@ ___
 
 [//]: # ( Paste in table above >> [📺][webpack-lec] )
 [webpack-lec]: #paste-YouTube-link-here
-[//]: # ( Paste in table above >> [🖼️][webpack-slides] )
-[webpack-slides]: ###add-slide-deck-pdf-to-folder
 [//]: # ( Paste in table above >> [🧑‍💻][webpack-demo] )
-[webpack-demo]: #link-demo-here
+[webpack-demo]: 01-junior-phase/11-modules-trip-planner/webpack
 
 [//]: # ( Paste in table above >> [👾][trip-planner-1-sol] )
 [trip-planner-1-sol]: ###
