@@ -773,7 +773,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Express & Sequelize Rounding Out | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | - | - | - |
 | Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-5] | [🎟][am-rev-2-5-ticket] | [🧑‍💻 Annotated Wikistack 2 Solution][am-rev-2-5-demo] | [👾][am-rev-2-5-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
 [rounding-out-lec]: https://youtu.be/9FmYT4z6UR8
@@ -785,13 +785,13 @@ ___
 [wikistack-2-sol]: 01-junior-phase/10-wikistack2/Solution.Wikistack2
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-5] )
-[am-rev-2-5]: #paste-YouTube-link-here
+[am-rev-2-5]: https://youtu.be/FfOZvXdu1GA
 [//]: # ( Paste in table above >> [🎟][am-rev-2-5-ticket] )
 [am-rev-2-5-ticket]: https://forms.gle/DdzkFfzoqz4a4bfx5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
-[am-rev-2-5-demo]: #link-demo-here
+[am-rev-2-5-demo]: https://github.com/FullstackAcademy/2011-GHP-RM-WEB-FT/tree/wikistack-comments/01-junior-phase/10-wikistack2/Solution.Wikistack2
 [//]: # ( Paste in table above >> [👾][am-rev-2-5-sol] )
-[am-rev-2-5-sol]: #paste-gist-here
+[am-rev-2-5-sol]: 01-junior-phase/10-wikistack2/exit-ticket-solution.md
 
 - **You should be able to:**
   - Write custom error handlers in Express
@@ -816,19 +816,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| ES Modules | - | [🖼️ ][es-modules-slides] | - | - | - |
-| Front-End Modules (Webpack) </br> (Trip Planner 1) | - | (N/A - live code) | [🧑‍💻][webpack-demo] | - | - |
+| ES Modules | [📺][es-modules-lec] | [🖼️ ][es-modules-slides] | - | - | - |
+| Front-End Modules (Webpack) </br> (Trip Planner 1) | [📺][webpack-lec] | (N/A - live code) | [🧑‍💻][webpack-demo] | - | - |
 | SPA & AJAX (Trip Planner 2) | - | [🖼️][spa-ajax-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][es-modules-lec] )
-[es-modules-lec]: #paste-YouTube-link-here
+[es-modules-lec]: https://youtu.be/YXHaNgT-aZ0
 [es-modules-slides]: 01-junior-phase/11-modules-trip-planner/es-modules-intro.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][es-modules-demo] )
 [es-modules-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][webpack-lec] )
-[webpack-lec]: #paste-YouTube-link-here
+[webpack-lec]: https://youtu.be/fMmsSOhqZuw
 [//]: # ( Paste in table above >> [🧑‍💻][webpack-demo] )
 [webpack-demo]: 01-junior-phase/11-modules-trip-planner/webpack
 
