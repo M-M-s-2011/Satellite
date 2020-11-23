@@ -818,7 +818,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | ES Modules | [📺][es-modules-lec] | [🖼️ ][es-modules-slides] | - | - | - |
 | Front-End Modules (Webpack) </br> (Trip Planner 1) | [📺][webpack-lec] | (N/A - live code) | [🧑‍💻][webpack-demo] | - | - |
-| SPA & AJAX (Trip Planner 2) | - | [🖼️][spa-ajax-slides] | - | - | - |
+| SPA & AJAX (Trip Planner 2) | - | [🖼️][spa-ajax-slides] | [🧑‍💻][spa-ajax-demo] | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][es-modules-lec] )
@@ -841,7 +841,7 @@ ___
 [spa-ajax-lec]: #paste-YouTube-link-here
 [spa-ajax-slides]: 01-junior-phase/11-modules-trip-planner/spa-ajax.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
-[spa-ajax-demo]: #link-demo-here
+[spa-ajax-demo]: 01-junior-phase/11-modules-trip-planner/fetch
 
 [//]: # ( Paste in table above >> [👾][trip-planner-2-sol] )
 [trip-planner-2-sol]: ###
