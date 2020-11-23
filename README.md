@@ -895,6 +895,8 @@ ___
 - To prepare, see the "📚 Supplemental Study Materials" section at the top of this repo.
 - _Thoroughly_ read the [Academic Integrity Policy](01-junior-phase/00-misc/academic-integrity-policy.md), which includes allowed resources.
 
+- [Intro to Pillars](https://youtu.be/iAgiVqcDGKM) end of day overview + FAQ
+- [Notes and FAQ](01-junior-phase/00-misc/Pillars-notes-FAQ.md)
 
 #### Day 3: Intro to React
 
