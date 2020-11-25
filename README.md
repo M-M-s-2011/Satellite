@@ -805,7 +805,7 @@ ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Front-End Modules, Trip Planner
 
@@ -967,9 +967,7 @@ ___
 
 </details>
 
-<!--
-
-</details>
+</details> 
 
 ___
 
@@ -1229,8 +1227,7 @@ ___
 
 </details>
 
-</details>
-
+<!-- </details> -->
 ___
 
 ### **Week 5: React forms, Sockets, Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**

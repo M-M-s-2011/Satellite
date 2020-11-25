@@ -52,13 +52,13 @@ import ReactDOM from 'react-dom'
 //     }
 // }
 
-// class Title extends Component {
-//     render(){
-//         return(
-//             <h1> {this.props.title} </h1>
-//         )
-//     }
-// }
+class Title extends Component {
+    render(){
+        return(
+            <h1> {this.props.title} </h1>
+        )
+    }
+}
 
 
 
@@ -68,31 +68,82 @@ import ReactDOM from 'react-dom'
 
 // ---------- --------- State Intro
 
-class Counter extends Component{
+// class Counter extends Component{
+//     constructor(){
+//         super()
+//         this.state = {
+//             count: 0
+//         }
+//         this.increment = this.increment.bind(this)
+//     }
+
+//     render(){
+//         console.log(this.state)
+//         return(
+//             <div>
+//                 <p>My Count: {this.state.count}</p>
+//                 <button onClick={this.increment}>Increment</button>
+//             </div>
+//         )
+//     }
+
+//     increment(){
+//         this.setState((oldState) => ({
+//             count: oldState.count + 1
+//         }))
+//     }
+
+// }
+
+// ReactDOM.render(<Counter/> , document.getElementById('app'))
+
+
+
+
+// -- Click Handler Passing
+
+class TopLevelClassComponent extends Component {
     constructor(){
         super()
         this.state = {
-            count: 0
+            name: ''
         }
-        this.increment = this.increment.bind(this)
+    }
+
+    someFunc(someArg){
+        console.log(someArg)
     }
 
     render(){
-        console.log(this.state)
         return(
             <div>
-                <p>My Count: {this.state.count}</p>
-                <button onClick={this.increment}>Increment</button>
+                <FunctionalComponent myFunctionFromTopLevel={this.someFunc} />
             </div>
         )
     }
-
-    increment(){
-        this.setState((oldState) => ({
-            count: oldState.count + 1
-        }))
-    }
-
 }
 
-ReactDOM.render(<Counter/> , document.getElementById('app'))
+
+
+
+
+let FunctionalComponent = (props) => {
+    console.log(props)
+    return(
+        <button onClick={() => {props.myFunctionFromTopLevel('This is my arg')}}> Click Me </button>
+    )
+}
+
+ReactDOM.render(<TopLevelClassComponent/> , document.getElementById('app'))
+
+
+
+
+
+
+
+//props.myFunctionFromTopLevel
+//props.myFunctionFromTopLevel() -> Invokes instantly
+//What if we wanted to pass params into the function? Need to wrap it in a callback
+
+
