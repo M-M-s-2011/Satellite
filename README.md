@@ -907,30 +907,30 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to React | - | [🖼️][intro-react-slides] | - | - | - |
-| State & Props | - | [🖼️][state-props-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | [🧑‍💻][intro-react-demo]  | [👾][intro-react-sol] | - |
+| State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | [🧑‍💻][state-props-demo]  | [👾][state-props-sol] | - |
+| Morning Review | - | [🎟][am-rev-3-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-react-lec] )
-[intro-react-lec]: #paste-YouTube-link-here
-[intro-react-slides]: 01-junior-phase/12-react/react-intro-min.pdf
+[intro-react-lec]: https://www.youtube.com/watch?v=iWqKmCjzlq8
+[intro-react-slides]: 01-junior-phase/12-react/React-Intro-2011-GHP.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][intro-react-demo] )
-[intro-react-demo]: ###
+[intro-react-demo]: 01-junior-phase/12-react/first-react-thing
 [//]: # ( Paste in table above >> [👾][intro-react-sol] )
-[intro-react-sol]: ###
+[intro-react-sol]: 01-junior-phase/12-react/Lab.FirstComponent.Solution-master
 
 [//]: # ( Paste in table above >> [📺][state-props-lec] )
-[state-props-lec]: #paste-YouTube-link-here
+[state-props-lec]: https://www.youtube.com/watch?v=aInSo8Qhvf0
 [state-props-slides]: 01-junior-phase/12-react/state-props.pdf
 [//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
-[state-props-demo]: ###
+[state-props-demo]: 01-junior-phase/12-react/pizza-app
 [//]: # ( Paste in table above >> [👾][state-props-sol] )
-[state-props-sol]: ###
+[state-props-sol]: 01-junior-phase/12-react/Lab.PropsAndState.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-3] )
 [am-rev-3-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-3-ticket] )
-[am-rev-3-3-ticket]: #paste-google-form-link-here
+[am-rev-3-3-ticket]: https://forms.gle/twPcPrdD1CLFKfcz6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-3-demo] )
 [am-rev-3-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-3-sol] )
