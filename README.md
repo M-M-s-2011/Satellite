@@ -87,6 +87,8 @@ ___
 | ---------- | ---- | ------ | -------- |
 | DOM | [🔗][ckpt-dom] | Sun, Nov 15 | [👾][ckpt-dom-sol] |
 | Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun, Nov 22 | [👾][ckpt-express-sol] |
+| Pillars Project | [🔗][pillars-repo] | In class | [📺 Solution Review Video][pillars-walkthrough] |
+
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
@@ -98,6 +100,9 @@ ___
 [ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
 [//]: # ( Paste in table above >> [👾][ckpt-express-sol] )
 [ckpt-express-sol]: 01-junior-phase/checkpoints/01-junior-phase/Checkpoint.Express-Sequelize.Solution
+
+[pillars-repo]: https://github.com/FullstackAcademy/Checkpoint-Pillars-v2
+[pillars-walkthrough]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhKph-MuCSKujl_MVved1OWC
 
 [ckpt-react]: https://github.com/FullstackAcademy/Checkpoint-React-v2
 [//]: # ( Paste in table above >> [👾][ckpt-react-sol] )
@@ -149,7 +154,7 @@ ___
 | ----- | ---- | -------- |
 | Fitness Tracker Pro 1 ⛹️ | [🔗][fitness-tracker-1] | [👾][fitness-tracker-1-sol] |
 | Fitness Tracker Pro 2 🚴 | [🔗][fitness-tracker-2] | [👾][fitness-tracker-2-sol] |
-<!-- | Fitness Tracker Pro 3 🧗 | [🔗][fitness-tracker-3] | - | -->
+| Fitness Tracker Pro 3 🧗 | [🔗][fitness-tracker-3] | [👾][fitness-tracker-3-sol] |
 <!-- | Fitness Tracker Pro 4 🧗 | [🔗][fitness-tracker-4] | - | -->
 
 [fitness-tracker-1]: https://learn.fullstackacademy.com/workshop/5c6f1e993812f00004238930/landing
@@ -162,7 +167,7 @@ ___
 
 [fitness-tracker-3]: https://learn.fullstackacademy.com/workshop/5c86c0b95587580004b80c3f/landing
 [//]: # ( Paste in table above >> [👾][fitness-tracker-3-sol] )
-[fitness-tracker-3-sol]: #tba
+[fitness-tracker-3-sol]: https://github.com/FullstackAcademy/Fitness-Tracker-Week3/tree/solution
 
 [fitness-tracker-4]: https://learn.fullstackacademy.com/workshop/5c9110fc3fb0a40004e67bd8/landing
 [//]: # ( Paste in table above >> [👾][fitness-tracker-4-sol] )
@@ -984,7 +989,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | - | [👾][react-lifecycle-sol] | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-3-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
 [react-lifecycle-lec]: https://youtu.be/XrNK1oOUUa8
@@ -995,7 +1000,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
 [am-rev-3-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-4-ticket] )
-[am-rev-3-4-ticket]: #paste-google-form-link-here
+[am-rev-3-4-ticket]: https://forms.gle/2gPgVfBf91x3Bt1x6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-4-demo] )
 [am-rev-3-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-4-sol] )
