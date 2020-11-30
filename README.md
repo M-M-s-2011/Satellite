@@ -1064,8 +1064,6 @@ ___
 
 </details>
 
-<details><summary>Click to view</summary>
-
 #### Day 3: Redux
 
 - Pre-Work:
@@ -1232,8 +1230,9 @@ ___
 
 </details>
 
-<!-- </details> -->
 ___
+
+<!--
 
 ### **Week 5: React forms, Sockets, Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
 
