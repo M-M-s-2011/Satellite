@@ -983,14 +983,14 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | - | - | - |
+| Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | - | [👾][react-lifecycle-sol] | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
 [react-lifecycle-lec]: https://youtu.be/XrNK1oOUUa8
 [react-lifecycle-slides]: 01-junior-phase/12-react/react-lifecycle.pdf
 [//]: # ( Paste in table above >> [👾][react-lifecycle-sol] )
-[react-lifecycle-sol]: ###
+[react-lifecycle-sol]: 01-junior-phase/12-react/ContactList.Solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
 [am-rev-3-4]: #paste-YouTube-link-here
