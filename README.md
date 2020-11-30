@@ -909,7 +909,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | [🧑‍💻][intro-react-demo]  | [👾][intro-react-sol] | - |
 | State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | [🧑‍💻][state-props-demo]  | [👾][state-props-sol] | - |
-| Morning Review | - | [🎟][am-rev-3-3-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-3-3] | [🎟][am-rev-3-3-ticket] | - | [👾][am-rev-3-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][intro-react-lec] )
 [intro-react-lec]: https://www.youtube.com/watch?v=iWqKmCjzlq8
@@ -928,13 +928,13 @@ ___
 [state-props-sol]: 01-junior-phase/12-react/Lab.PropsAndState.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-3] )
-[am-rev-3-3]: #paste-YouTube-link-here
+[am-rev-3-3]: https://youtu.be/ZKe3PFXH5_A
 [//]: # ( Paste in table above >> [🎟][am-rev-3-3-ticket] )
 [am-rev-3-3-ticket]: https://forms.gle/twPcPrdD1CLFKfcz6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-3-demo] )
 [am-rev-3-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-3-sol] )
-[am-rev-3-3-sol]: #paste-gist-here
+[am-rev-3-3-sol]: 01-junior-phase/12-react/exit-ticket-solution.md
 
 - **You should be able to:**
   - Write a class or functional component in React
@@ -967,7 +967,7 @@ ___
 
 </details>
 
-</details> 
+</details>
 
 ___
 
@@ -983,11 +983,11 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Component Lifecycle (Contact List) | - | [🖼️][react-lifecycle-slides] | - | - | - |
+| Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
-[react-lifecycle-lec]: #paste-YouTube-link-here
+[react-lifecycle-lec]: https://youtu.be/XrNK1oOUUa8
 [react-lifecycle-slides]: 01-junior-phase/12-react/react-lifecycle.pdf
 [//]: # ( Paste in table above >> [👾][react-lifecycle-sol] )
 [react-lifecycle-sol]: ###
