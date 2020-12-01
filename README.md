@@ -989,7 +989,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | - | [👾][react-lifecycle-sol] | - |
-| Morning Review | - | [🎟][am-rev-3-4-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-3-4] | [🎟][am-rev-3-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
 [react-lifecycle-lec]: https://youtu.be/XrNK1oOUUa8
@@ -998,7 +998,7 @@ ___
 [react-lifecycle-sol]: 01-junior-phase/12-react/ContactList.Solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
-[am-rev-3-4]: #paste-YouTube-link-here
+[am-rev-3-4]: https://youtu.be/y0TxfLAQc5A
 [//]: # ( Paste in table above >> [🎟][am-rev-3-4-ticket] )
 [am-rev-3-4-ticket]: https://forms.gle/2gPgVfBf91x3Bt1x6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-4-demo] )
@@ -1035,11 +1035,11 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Juke | - | [🖼️][intro-juke-slides] | - | - | - |
+| Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
-[intro-juke-lec]: #paste-YouTube-link-here
+[intro-juke-lec]: https://youtu.be/pYcs-Pa55QI
 [intro-juke-slides]: 01-junior-phase/13-juke/intro-juke.pdf
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
