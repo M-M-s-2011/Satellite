@@ -1035,17 +1035,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | [👾][juke-solution] | [📺][juke-review] |
+| Morning Review | - | [🎟][am-rev-3-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
 [intro-juke-lec]: https://youtu.be/pYcs-Pa55QI
 [intro-juke-slides]: 01-junior-phase/13-juke/intro-juke.pdf
+[juke-solution]: 01-junior-phase/13-juke/Juke.Solution
+[juke-review]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlDnS91P6zf3LrIu-ZPs2pG
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
 [am-rev-3-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-5-ticket] )
-[am-rev-3-5-ticket]: #paste-google-form-link-here
+[am-rev-3-5-ticket]: https://forms.gle/16z8RKC4JezU3qox7
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-5-demo] )
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-5-sol] )
