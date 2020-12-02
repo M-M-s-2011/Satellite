@@ -8,7 +8,9 @@ const Album = (props) => {
 
   return (
     <div className='album'>
-      <a onClick={pickAlbum && pickAlbum(props.album.id)}>
+//         probably could do this code instead:
+//         <a onClick={() => pickAlbum(props.album.id)} />
+        <a onClick={pickAlbum && pickAlbum(props.album.id)}>
         <img src={artworkUrl} />
         <p>{name}</p>
         <small>{artist}</small>
