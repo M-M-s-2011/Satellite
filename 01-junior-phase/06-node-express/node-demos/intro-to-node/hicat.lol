@@ -1,3 +1,0 @@
-HAI 1.2
-    VISIBLE "HAI, WORLD!!!1!~"
-KTHXBYE
